@@ -1,0 +1,30 @@
+Xterm*loginShell:true
+
+
+
+!------------------------------------------------------------------------------
+!                       X T E R M - Setting
+!
+
+xterm*background:       Black
+xterm*foreground:       green
+xterm*locale:           UTF-8
+XTterm*utf8: 		1
+XTerm*metaSendsEscape:  true
+xterm*font:             -misc-fixed-medium-r-normal--18-120-100-100-c-90-iso10646-1
+xterm*faceNameDoublesiez:       fangsong:pixelsize=14
+
+
+!-------------------------------------------------------------------------------
+!                       X C L O C K - Setting
+!
+
+xclock*background:      black
+xclock*foreground:      green
+xclock*hands:           green
+
+!------- -----------------------------------------------------------------------
+!                      XPDF - Setting
+!
+xpdf*foreground:        black
+xpdf*background:        white
