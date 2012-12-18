@@ -5,8 +5,5 @@ export LC_TIME="en_US.UTF-8"
 export LC_NUMERIC="en_US.UTF-8"
 export LC_MONETARY="en_US.UTF-8"
 export LC_MESSAGES="en_US.UTF-8"
-export XMODIFIERS="@im=SCIM"
-export GTK_IM_MODULE=scim
-export QT_IM_MODULE=scim
-
+export XMODIFIERS='@im=SCIM'
 exec /usr/local/bin/ratpoison
